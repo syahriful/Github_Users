@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="Github_User_List">Github Users List</string>
+    <string name="image_splashscreen">image splash screen</string>
+</resources>
