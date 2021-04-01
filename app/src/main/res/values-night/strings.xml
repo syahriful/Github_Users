@@ -2,4 +2,5 @@
 <resources>
     <string name="Github_User_List">Github Users List</string>
     <string name="image_splashscreen">image splash screen</string>
+    <string name="photo">avatar</string>
 </resources>

@@ -10,8 +10,8 @@
 
     <ImageView
         android:id="@+id/image_splash"
-        android:layout_width="@dimen/_140sdp"
-        android:layout_height="@dimen/_140sdp"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
         android:contentDescription="@string/image_splashscreen"
         android:src="@drawable/github3"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -28,7 +28,7 @@
         android:textColor="@color/white"
         android:textStyle="bold"
         android:fontFamily="monospace"
-        android:textSize="@dimen/_35sdp"
+        android:textSize="35sp"
         android:textAlignment="center"
         app:layout_constraintBottom_toTopOf="@id/image_splash"
         app:layout_constraintEnd_toEndOf="parent"
