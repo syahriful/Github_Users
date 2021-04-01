@@ -3,4 +3,7 @@
     <string name="Github_User_List">Github Users List</string>
     <string name="image_splashscreen">image splash screen</string>
     <string name="photo">avatar</string>
+    <string name="app_name">Github User List</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
 </resources>
